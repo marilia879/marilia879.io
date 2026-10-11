@@ -1,0 +1,51 @@
+    h1 {
+        text-align: center;
+        color: black;
+    }
+    .content {
+    display: flex;
+    align-items: center;
+}
+.content p {
+    font-size: 22px;
+}
+
+.content img {
+    width: 360px;
+}
+.second-text {
+    text-align: center;
+}
+
+section img {
+    display: block;
+    margin: auto;
+    width: 370px;
+}
+.second-text {
+    text-align: center;
+    font-size: 23px;
+}
+section img {
+    display: block;
+    margin: auto;
+    width: 310px;
+}
+.third-section {
+    display: flex;
+    align-items: center;
+    gap: 45px;
+}
+
+.third-section img {
+    width: 280px;
+}
+.third-section p {
+    font-size: 22px;
+}
+body {
+    background-color: #f2f2f2;
+}
+img {
+    border: 4px solid black;
+}
